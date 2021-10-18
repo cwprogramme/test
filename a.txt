@@ -1,3 +1,4 @@
+stage
 aaa
 init
 dev 1
